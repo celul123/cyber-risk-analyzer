@@ -1,0 +1,183 @@
+Cyber Risk Report
+====================
+
+Asset: Web Server
+Vulnerability: SQL Injection
+CVSS Score: 10
+Likelihood: 5
+Impact: 5
+Risk Score: 25
+Risk Level: Critical
+NIST Function: Protect
+
+Asset: Employee Laptop
+Vulnerability: Outdated OS
+CVSS Score: 1
+Likelihood: 3
+Impact: 2
+Risk Score: 6
+Risk Level: Low
+NIST Function: Detect
+
+Asset: Database Server
+Vulnerability: Open Port
+CVSS Score: 7
+Likelihood: 4
+Impact: 5
+Risk Score: 20
+Risk Level: High
+NIST Function: Identify
+
+Asset: Email Server
+Vulnerability: Weak Password
+CVSS Score: 8
+Likelihood: 4
+Impact: 4
+Risk Score: 16
+Risk Level: High
+NIST Function: Protect
+
+Asset: HR Workstation
+Vulnerability: Unpatched Software
+CVSS Score: 2
+Likelihood: 3
+Impact: 3
+Risk Score: 9
+Risk Level: Low
+NIST Function: Detect
+
+Asset: Finance Server
+Vulnerability: Default Credentials
+CVSS Score: 10
+Likelihood: 5
+Impact: 5
+Risk Score: 25
+Risk Level: Critical
+NIST Function: Detect
+
+Asset: DevOps Server
+Vulnerability: Directory Traversal
+CVSS Score: 8
+Likelihood: 4
+Impact: 4
+Risk Score: 16
+Risk Level: High
+NIST Function: Detect
+
+Asset: Internal Wiki Server
+Vulnerability: Insecure API Endpoint
+CVSS Score: 7
+Likelihood: 3
+Impact: 3
+Risk Score: 9
+Risk Level: Low
+NIST Function: Detect
+
+Asset: VPN Gateway
+Vulnerability: VPN Misconfiguration
+CVSS Score: 10
+Likelihood: 5
+Impact: 5
+Risk Score: 25
+Risk Level: Critical
+NIST Function: Detect
+
+Asset: Backup Server
+Vulnerability: Backup Exposure
+CVSS Score: 8
+Likelihood: 4
+Impact: 4
+Risk Score: 16
+Risk Level: High
+NIST Function: Detect
+
+Asset: Developer Laptop
+Vulnerability: Phishing Vulnerability
+CVSS Score: 7
+Likelihood: 4
+Impact: 3
+Risk Score: 12
+Risk Level: Medium
+NIST Function: Respond
+
+Asset: IoT Sensor Gateway
+Vulnerability: Weak Encryption
+CVSS Score: 8
+Likelihood: 3
+Impact: 2
+Risk Score: 6
+Risk Level: Low
+NIST Function: Detect
+
+Asset: Customer Portal Server
+Vulnerability: Authentication Bypass
+CVSS Score: 10
+Likelihood: 5
+Impact: 5
+Risk Score: 25
+Risk Level: Critical
+NIST Function: Detect
+
+Asset: DNS Server
+Vulnerability: DNS Cache Poisoning
+CVSS Score: 7
+Likelihood: 4
+Impact: 4
+Risk Score: 16
+Risk Level: High
+NIST Function: Detect
+
+Asset: Monitoring Server
+Vulnerability: Log Injection
+CVSS Score: 7
+Likelihood: 3
+Impact: 3
+Risk Score: 9
+Risk Level: Low
+NIST Function: Detect
+
+Asset: Web Server
+Vulnerability: Command Injection
+CVSS Score: 10
+Likelihood: 5
+Impact: 5
+Risk Score: 25
+Risk Level: Critical
+NIST Function: Detect
+
+Asset: Finance Server
+Vulnerability: Privilege Escalation
+CVSS Score: 5
+Likelihood: 4
+Impact: 5
+Risk Score: 20
+Risk Level: High
+NIST Function: Detect
+
+Asset: Customer Portal Server
+Vulnerability: Improper Access Control
+CVSS Score: 6
+Likelihood: 4
+Impact: 5
+Risk Score: 20
+Risk Level: High
+NIST Function: Detect
+
+Asset: DevOps Server
+Vulnerability: Hardcoded Credentials
+CVSS Score: 8
+Likelihood: 3
+Impact: 4
+Risk Score: 12
+Risk Level: Medium
+NIST Function: Detect
+
+Asset: IoT Sensor Gateway
+Vulnerability: Unencrypted Communication
+CVSS Score: 7
+Likelihood: 3
+Impact: 2
+Risk Score: 6
+Risk Level: Low
+NIST Function: Detect
+

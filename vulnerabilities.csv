@@ -1,0 +1,21 @@
+id,name,asset_id,cvss_vector,likelihood
+1,SQL Injection,1,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,5
+2,Outdated OS,2,CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:N,3
+3,Open Port,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L,4
+4,Weak Password,4,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:L,4
+5,Unpatched Software,5,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L,3
+6,Default Credentials,6,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,5
+7,Directory Traversal,7,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N,4
+8,Insecure API Endpoint,8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L,3
+9,VPN Misconfiguration,9,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,5
+10,Backup Exposure,10,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N,4
+11,Phishing Vulnerability,11,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N,4
+12,Weak Encryption,12,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:L,3
+13,Authentication Bypass,13,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H,5
+14,DNS Cache Poisoning,14,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N,4
+15,Log Injection,15,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N,3
+16,Command Injection,1,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H,5
+17,Privilege Escalation,6,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H,4
+18,Improper Access Control,13,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N,4
+19,Hardcoded Credentials,7,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N,3
+20,Unencrypted Communication,12,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N,3

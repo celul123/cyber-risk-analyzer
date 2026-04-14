@@ -1,0 +1,16 @@
+id,name,type,criticality,impact
+1,Web Server,Server,5,5
+2,Employee Laptop,Laptop,2,2
+3,Database Server,Server,5,5
+4,Email Server,Server,4,4
+5,HR Workstation,Desktop,3,3
+6,Finance Server,Server,5,5
+7,DevOps Server,Server,4,4
+8,Internal Wiki Server,Server,3,3
+9,VPN Gateway,Network Device,5,5
+10,Backup Server,Server,4,4
+11,Developer Laptop,Laptop,3,3
+12,IoT Sensor Gateway,IoT Device,2,2
+13,Customer Portal Server,Server,5,5
+14,DNS Server,Server,4,4
+15,Monitoring Server,Server,3,3
